@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exam1</string>
+    <string name="class_name">Введите имя класс</string>
+    <string name="class_time">Введите время занятия</string>
+    <string name="add_class">Добавить занятие</string>
+    <string name="error_empty_fields">Пожалуйста, заполните все поля</string>
+</resources>
